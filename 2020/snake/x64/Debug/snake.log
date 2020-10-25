@@ -1,0 +1,2 @@
+﻿  main.cpp
+C:\Users\tian\Documents\GitHub\diary\2020\snake\olcConsoleGameEngine.h(128,1): fatal error C1189: #error:  Please enable UNICODE for your compiler! VS: Project Properties -> General -> Character Set -> Use Unicode. Thanks! - Javidx9
